@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": -5.525, "lat": 33.9776 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 304.64,
+    "feels_like": 305.59,
+    "temp_min": 304.64,
+    "temp_max": 304.64,
+    "pressure": 1017,
+    "humidity": 45
+  },
+  "visibility": 10000,
+  "wind": { "speed": 4.63, "deg": 330 },
+  "clouds": { "all": 0 },
+  "dt": 1695820851,
+  "sys": {
+    "type": 1,
+    "id": 2397,
+    "country": "MA",
+    "sunrise": 1695795197,
+    "sunset": 1695838388
+  },
+  "timezone": 3600,
+  "id": 6547283,
+  "name": "Meknes",
+  "cod": 200
+}
